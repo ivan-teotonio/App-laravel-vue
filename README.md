@@ -1,3 +1,4 @@
+
 # Réplica da página inicial de busca do google 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ivan-teotonio/App-laravel-vue/blob/main/LICENCE)
 
@@ -29,4 +30,7 @@ clonar ou baixar o arquivo e executar no navegador
 Ivan Teotonio Acioli Junior
 
 https://www.linkedin.com/ivan-teotonio
+
+
+
 
