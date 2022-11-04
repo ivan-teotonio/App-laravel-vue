@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-O sistema consiste em um crud de posts com cadastro e login, que depois logado o usário pode criar, atualozar e de deletar todos os posts que ficam no deshboard
+O sistema consiste em um crud de posts com cadastro e login, que depois logado o usário pode criar, atualizar e de deletar todos os posts que ficam no deshboard
 
 
 
