@@ -1,5 +1,5 @@
 
-# Réplica da página inicial de busca do google 
+# Um crud de posts 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ivan-teotonio/App-laravel-vue/blob/main/LICENCE)
 
 # Sobre o projeto
@@ -16,6 +16,8 @@ O sistema consiste em um crud de posts com cadastro e login, que depois logado o
 
 ![Web_1](https://github.com/ivan-teotonio/App-laravel-vue/blob/main/public/img/desboard.png)
 
+![Web_1](https://github.com/ivan-teotonio/App-laravel-vue/blob/main/public/img/editar.png)
+
 
 # Tecnologias utilizadas
 
@@ -23,7 +25,7 @@ O sistema consiste em um crud de posts com cadastro e login, que depois logado o
 - HTML / tailwind css / VueJs
 
 ## Back end
-- Laravel / VueJs
+- Laravel / MySQL
 
 # Como executar o projeto
 
